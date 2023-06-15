@@ -1,3 +1,14 @@
+# Screen Shots
+## Header
+![image](https://github.com/Vivek-aDev/resume-builder/assets/60030641/43567855-64d0-4081-a745-6dfbebfd2bd5)
+
+## Body-editor
+![image](https://github.com/Vivek-aDev/resume-builder/assets/60030641/4d18f611-3c9a-47dc-9593-e0a4bf21010d)
+
+## Final Resume
+![image](https://github.com/Vivek-aDev/resume-builder/assets/60030641/5d7eb501-21c5-43c1-9437-7bb038de42e9)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
