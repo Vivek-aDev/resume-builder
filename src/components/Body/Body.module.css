@@ -46,4 +46,10 @@
     display: flex;
     gap: 5px;
     align-items: center;
+    cursor: pointer;
+}
+
+.toolbar button svg{
+    height: 20px;
+    width: 20px;
 }
