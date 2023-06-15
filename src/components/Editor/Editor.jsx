@@ -478,7 +478,8 @@ function Editor(props) {
         }));
         break;
       }
-      default: return null;
+      default:
+        return null;
     }
   };
 
@@ -533,9 +534,7 @@ function Editor(props) {
       companyName: activeInfo?.details
         ? activeInfo.details[0]?.companyName || ""
         : "",
-      college: activeInfo?.details
-        ? activeInfo.details[0]?.college || ""
-        : "",
+      college: activeInfo?.details ? activeInfo.details[0]?.college || "" : "",
       location: activeInfo?.details
         ? activeInfo.details[0]?.location || ""
         : "",
@@ -654,4 +653,4 @@ function Editor(props) {
   );
 }
 
-export {Editor};
+export default Editor

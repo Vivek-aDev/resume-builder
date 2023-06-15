@@ -103,4 +103,4 @@ function Body() {
   );
 }
 
-export  {Body};
+export { Body };
